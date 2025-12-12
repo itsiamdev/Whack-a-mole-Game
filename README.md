@@ -26,3 +26,7 @@ A fun and interactive Whack-a-Mole game built with HTML, CSS, and JavaScript. �
 ## 🚀 Running the Game
 
 Open `index.html` in a web browser to start playing. 🌍
+
+## 🌐 Live Demo
+
+Check out the live demo: [Whack-a-Mole Game](https://iam269.github.io/Whack-a-mole-Game/)
