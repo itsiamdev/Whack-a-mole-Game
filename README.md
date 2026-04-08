@@ -29,4 +29,4 @@ Open `index.html` in a web browser to start playing. 🌍
 
 ## 🌐 Live Demo
 
-Check out the live demo: [Whack-a-Mole Game](https://iam269.github.io/Whack-a-mole-Game/)
+Check out the live demo: [Whack-a-Mole Game](https://itsiamdev.github.io/Whack-a-mole-Game/)
